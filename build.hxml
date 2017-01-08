@@ -1,0 +1,21 @@
+## Flash
+-main Main
+
+-cp src
+
+-debug
+
+-swf export/js/flash/test.swf
+
+--next
+
+## JavaScript
+-main Main
+
+-cp src
+
+-D shallow-expose
+
+-debug
+
+-js export/js/js/test.js
